@@ -23,3 +23,6 @@ Criteria Four - Heading attributes fall in sequential order. See below.
 Criteria Five - Title element is concise and descriptive. See below. 
 
 ![](/assets/images/CriteriaFive.JPG)
+
+
+Link to Deployed Page: https://edavis56.github.io/Homework-One/
